@@ -47,7 +47,7 @@ function updateActiveDate(id) {
         .then(data => {
             // Handle the fetched data
             let result = `<!-- spacer -->
-        <div style="height: 50px; width: 1px;"></div> `;
+        <div style="height: 50px; width: 1px; flex-shrink: 0;"></div> `;
             for(let i = 0; i < data.length; i++){
                 if(data[i].type === "location"){
                     result += `<div class="cell">
@@ -81,6 +81,8 @@ function updateActiveDate(id) {
                                 </div>`;
                 }
             }
+            result += `<!-- spacer -->
+        <div style="height: 150px; width: 1px; flex-shrink: 0;"></div> `;
             console.log("updateActiveDate result:", result);
             return result;
         })
