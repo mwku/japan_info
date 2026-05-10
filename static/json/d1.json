@@ -1,0 +1,5 @@
+[
+    {"type":"location","data":["関西空港","抵達、出關、領取交通卡"],"warning":""},
+    {"type":"transport","data":["JR関西空港線 關西機場-西九條","JRゆめ咲線 西九條-環球城"],"warning":""},
+    {"type":"location","data":["飯店","報到、入住"],"warning":""}
+]

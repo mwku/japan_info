@@ -1,0 +1,117 @@
+body{
+    background-color: #fff;
+    padding: 0;           
+    /* box-sizing: border-box;   */
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    position: relative;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    /* padding: 0; */
+}
+
+.container{
+    background-color: #829ab6;
+    width: calc(100vw - 30px);
+    height: calc(100vh - 30px);
+    margin: 15px;
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+.bottom-bar{
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    background-color: #00b4b2;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.date-option{
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    /* margin-left: 20px; */
+    flex-shrink: 0;
+    /* background-color: #000; */
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+
+    cursor: pointer;
+}
+.date-option:hover{
+    color:rgb(0, 0, 151);
+}
+
+.underline{
+    width:50px;
+    height: 2px;
+    background-color: yellow;
+
+    position: absolute;
+    top:40px;
+    left: 15px;
+}
+
+.cell{
+    width:80%;
+    height: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.header{
+    width:100%;
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.split-line{
+    width: 100%;
+    height: 0;
+    border-top: 1px solid #fff;
+    margin: 0;
+}
+.content{
+    font-size: 15px;
+    line-height: 1.2;
+    /* height: 25px; */
+    margin: 0;
+    margin-top: 12px;
+    padding: 0;
+    text-align: left;
+}
+.warning{
+    color: yellow;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.top-photo{
+    width: 80%;
+    height: auto;
+    display: block;
+    background-size: cover;
+    background-position: center;
+}
