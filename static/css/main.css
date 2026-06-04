@@ -40,12 +40,14 @@ body{
     flex-wrap: nowrap;
     overflow-x: scroll;
     overflow-y: hidden;
+    scroll-behavior: smooth;
 }
 
 .date-option{
-    width: 80px;
-    height: 40px;
-    line-height: 40px;
+    width: 60px;
+    height: 25px;
+    line-height: 25px;
+    margin: 10px;
     /* margin-left: 20px; */
     flex-shrink: 0;
     /* background-color: #000; */

@@ -33,7 +33,6 @@ function CreateDateList() {
                     ${data[i][0]}
                 </div>\n`
             }
-            DateOptionClick(0);
             return result;
         })
         .catch(error => {
@@ -95,6 +94,7 @@ function DateOptionClick(index) {
     // console.log("click index:", index);
     // console.log("click data:", DateList[index]);
     const Id = DateList[index][1];
+    DateChangingAnimate(index);
     const container = document.getElementById("container");
     container.innerHTML = "";
     updateActiveDate(Id).then(result => {
@@ -105,7 +105,11 @@ function DateOptionClick(index) {
 
 document.addEventListener("DOMContentLoaded", function() {
     const container = document.getElementById("BottomBar");
-    CreateDateList().then(result => {
-        container.innerHTML = result+`<div class="underline"></div>`;
+    CreateDateList()
+    .then(result => {
+        container.innerHTML = result;//+`<div class="underline"></div>`
+    }).then(() => {
+        DateOptionClick(0);
+        // document.getElementById("d1").style.color = "rgb(0, 0, 151)";
     });
 });
