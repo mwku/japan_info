@@ -1,0 +1,80 @@
+[
+    {
+        "type": "transport",
+        "data": [
+            "JRゆめ咲線　環球城-西九條",
+            "JR大阪環狀線 西九條-大阪城公園駅"
+        ],
+        "warning": ""
+    },
+    {
+        "type": "location",
+        "data": [
+            "大阪城公園",
+            "還沒寫，反正會走到腿斷掉"
+        ],
+        "warning": ""
+    },
+    {
+        "type": "transport",
+        "data": [
+            "JR大阪環狀線 大阪城公園駅-新今宮駅"
+        ],
+        "warning": ""
+    },
+    {
+        "type": "location",
+        "data": [
+            "新世界商店街",
+            ""
+        ],
+        "warning": ""
+    },
+    {
+        "type": "location",
+        "data": [
+            "通天閣",
+            ""
+        ],
+        "warning": ""
+    },
+    {
+        "type": "transport",
+        "data": [
+            "Osaka Metro御堂筋線 動物園前駅-天王寺駅",
+            "Osaka Metro谷町線 動物園前駅-四天王寺前夕陽ヶ丘駅"
+        ],
+        "warning": "也可選擇步行"
+    },
+    {
+        "type": "location",
+        "data": [
+            "四天王寺",
+            ""
+        ],
+        "warning": ""
+    },
+    {
+        "type": "transport",
+        "data": [
+            "Osaka Metro御堂筋線 天王寺駅-大阪難波"
+        ],
+        "warning": ""
+    },
+    {
+        "type": "location",
+        "data": [
+            "道頓堀、心齋橋",
+            ""
+        ],
+        "warning": ""
+    },
+    {
+        "type": "transport",
+        "data": [
+            "阪神電鐵阪神なんば線 大阪難波-西九條",
+            "JRゆめ咲線　西九條-環球城"
+        ],
+        "warning": ""
+    }
+]
