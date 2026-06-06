@@ -1,6 +1,8 @@
 [
     {"type":"location","data":["関西空港","抵達、出關、領取交通卡"],"warning":""},
-    {"type":"transport","data":["JR関西空港線 關西機場-西九條","JRゆめ咲線 西九條-環球城"],"warning":""},
+    {"type":"transport","data":["JR関西空港線 關西機場-鳳"],"warning":""},
+    {"type":"location","data":["大鳥大社","透明御守、籤詩"],"warning":""},
+    {"type":"transport","data":["JR関西空港線 鳳-西九條","JRゆめ咲線 西九條-環球城"],"warning":""},
     {"type":"location","data":["飯店","報到、入住"],"warning":""},
     {"type":"transport","data":["JRゆめ咲線 環球城-西九條","JR大阪環狀線 西九條-天王寺"],"warning":""},
     {"type":"location","data":["阿倍野HARUKAS","百貨、觀景台"],"warning":"觀景台開放時間：09:00 - 22:00<br>最後入場時間：21:30"}

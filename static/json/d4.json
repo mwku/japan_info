@@ -1,0 +1,41 @@
+[
+    {
+        "type":"transport",
+        "data":[
+            "JRゆめ咲線 環球城-西九條",
+            "JR大阪環状線 西九條-大阪"
+        ],
+        "warning":""
+    },
+    {
+        "type":"location",
+        "data":[
+            "露天神社",
+            "戀愛神社"
+        ],
+        "warning":""
+    },
+    {
+        "type":"location",
+        "data":[
+            "梅田地帶百貨",
+            "百貨、餐廳"
+        ],
+        "warning":""
+    },
+    {
+        "type":"transport",
+        "data":[
+            "JR大阪環状線 大阪-桜ノ宮"
+        ],
+        "warning":""
+    },
+    {
+        "type":"location",
+        "data":[
+            "天神季",
+            "不知道寫什麼"
+        ],
+        "warning":"大概三四點要到"
+    }
+]
