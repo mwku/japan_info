@@ -11,7 +11,7 @@
         "type": "location",
         "data": [
             "關西空港",
-            "國仁歸丸"
+            "<span class=\"location-name\">かんさいくうこう</span><br>國仁歸丸"
         ],
         "warning": ""
     }

@@ -13,7 +13,7 @@
         "type": "location",
         "data": [
             "伏見稻荷大社",
-            "還沒有寫"
+            "<span class=\"location-name\">ふしみいなりたいしゃ</span><br><br>稻荷大神是五尊神明的總稱，包括宇伽之御魂大神、佐田彥大神、大宮能売大神、田中大神和四大神"
         ],
         "warning": ""
     },
@@ -29,7 +29,7 @@
         "type": "location",
         "data": [
             "清水寺",
-            "還沒寫，反正會走到腿斷掉"
+            "<span class=\"location-name\">きよみずでら</span><br><br>"
         ],
         "warning": ""
     },
@@ -44,9 +44,9 @@
         "type": "location",
         "data": [
             "祇園花見小路通り",
-            "藝伎"
+            "<span class=\"location-name\">ぎおんはなみこじとおり</span><br><br>藝伎傍晚4-6點最容易看到藝伎"
         ],
-        "warning": "還沒寫但大概就是一些規範"
+        "warning": "禁止對藝伎拍照或跟蹤<br><br>部分私人土地禁止進入<br><br>避免影響當地居民生活"
     },
     {
         "type": "transport",
@@ -58,8 +58,8 @@
     {
         "type": "location",
         "data": [
-            "京都祇園季",
-            "祭典"
+            "京都祇園祭",
+            "<span class=\"location-name\">きょうとぎおんまつり</span><br><br>祭典"
         ],
         "warning": "還沒寫但大概就是一些規範"
     },

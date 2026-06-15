@@ -110,6 +110,11 @@ body{
     margin-top: 10px;
 }
 
+.location-name{
+    font-weight: bold;
+    color: #ffbebe;
+}
+
 .top-photo{
     width: 80%;
     height: auto;

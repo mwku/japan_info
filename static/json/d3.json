@@ -11,7 +11,7 @@
         "type": "location",
         "data": [
             "大阪城公園",
-            "還沒寫，反正會走到腿斷掉"
+            "<span class=\"location-name\">おおさかじょうこうえん</span><br>還沒寫，反正會走到腿斷掉"
         ],
         "warning": ""
     },
@@ -26,7 +26,7 @@
         "type": "location",
         "data": [
             "新世界商店街",
-            ""
+            "<span class=\"location-name\">しんせかいしょうてんがい</span>"
         ],
         "warning": ""
     },
@@ -34,7 +34,7 @@
         "type": "location",
         "data": [
             "通天閣",
-            ""
+            "<span class=\"location-name\">つうてんかく</span>"
         ],
         "warning": ""
     },
@@ -50,7 +50,7 @@
         "type": "location",
         "data": [
             "四天王寺",
-            ""
+            "<span class=\"location-name\">してんのうじ</span>"
         ],
         "warning": ""
     },
@@ -65,7 +65,7 @@
         "type": "location",
         "data": [
             "道頓堀、心齋橋",
-            ""
+            "<span class=\"location-name\">どうとんぼり、しんさいばし</span>"
         ],
         "warning": ""
     },
