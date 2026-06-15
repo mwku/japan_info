@@ -1,8 +1,8 @@
 [
-    {"type":"location","data":["関西空港","<span class=\"location-name\">かんさいくうこう<br>簡稱：かんくう(關空）</span><br><br>第1航廈2F出關後跟著「JR關西機場站」指標前進<br><br>找到みどりの窓口（綠色窗口）人工購買，或旁邊的自動售票機"],"warning":""},
-    {"type":"transport","data":["JR関西空港線 關西機場-鳳"],"warning":""},
-    {"type":"location","data":["大鳥大社","<span class=\"location-name\">おおとりたいしゃ</span><br><br>大鳥大社主要供奉日本武尊與大鳥連祖神<br>主要祈求勝運、開運、消災解厄與交通安全，此外還以祈求生意興隆的御神木聞名"],"warning":"特別的透明御守<br><br>強運特有的透明籤<br><br>還有十二個月份不同的御朱印"},
-    {"type":"transport","data":["JR関西空港線 鳳-西九條","JRゆめ咲線 西九條-環球城"],"warning":""},
+    {"type":"location","data":["関西空港","<span class=\"location-name\">かんさいくうこう<br>簡稱：かんくう(關空）</span><br><br>第1航廈2F出關後跟著「JR關西機場站」指標前進<br><br>找到みどりの窓口（綠色窗口）人工購買ICOCA，或旁邊的自動售票機"],"warning":""},
+    {"type":"transport","data":["JR関西空港線 關西機場-りんくうタウン駅"],"warning":""},
+    {"type":"location","data":["臨空城","<span class=\"location-name\">りんくうたいしゃ</span><br><br>臨空城是位於大阪市的一座現代化建築，以其獨特的設計和壯觀的景觀而聞名"],"warning":""},
+    {"type":"transport","data":["JR関西空港線 りんくうタウン駅-西九條","JRゆめ咲線 西九條-環球城"],"warning":""},
     {"type":"location","data":["飯店","<span class=\"location-name\">ホテル</span><br><br>報到、入住"],"warning":""},
     {"type":"transport","data":["JRゆめ咲線 環球城-西九條","JR大阪環狀線 西九條-天王寺"],"warning":""},
     {"type":"location","data":["阿倍野HARUKAS","<span class=\"location-name\">あべのハルカス</span><br><br>地下2樓至14樓進駐有阿倍野HARUKAS近鐵本店（近鐵百貨公司）和阿倍野HARUKAS DINING<br><br>觀景臺HARUKAS 300<span class=\"location-name\">從16樓入場口搭乘專用電梯</span>，天候狀況佳時還能一望從京都到六甲山、明石海峽大橋到淡路島和生駒山等<br><br>58樓則設有一整面的木質甲板天空庭園，室內空間的咖啡餐廳酒吧「SKY GARDEN 300」提供餐點和酒類"],"warning":"觀景台開放時間：09:00 - 22:00<br>最後入場時間：21:30"}

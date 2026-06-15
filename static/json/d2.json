@@ -13,7 +13,7 @@
         "type": "location",
         "data": [
             "伏見稻荷大社",
-            "<span class=\"location-name\">ふしみいなりたいしゃ</span><br><br>稻荷大神是五尊神明的總稱，包括宇伽之御魂大神、佐田彥大神、大宮能売大神、田中大神和四大神"
+            "<span class=\"location-name\">ふしみいなりたいしゃ</span><br><br>稻荷大神是五尊神明的總稱，包括宇伽之御魂大神、佐田彥大神、大宮能売大神、田中大神和四大神<br><br>千本鳥居早點到能拍出沒人的好照片"
         ],
         "warning": ""
     },
@@ -59,9 +59,9 @@
         "type": "location",
         "data": [
             "京都祇園祭",
-            "<span class=\"location-name\">きょうとぎおんまつり</span><br><br>祭典"
+            "<span class=\"location-name\">きょうとぎおんまつり</span><br><br>祇園祭的前夜祭<br>四條通與烏丸通一帶部分區域會劃為行人徒步區（步行者天國），沿路將聚集不少小吃攤販，但人潮也相當擁擠，尤其四條烏丸十字路口、四條室町十字路口附近"
         ],
-        "warning": "還沒寫但大概就是一些規範"
+        "warning": "禁止觸摸山鉾"
     },
     {
         "type": "transport",

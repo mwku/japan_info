@@ -11,9 +11,9 @@
         "type": "location",
         "data": [
             "大阪城公園",
-            "<span class=\"location-name\">おおさかじょうこうえん</span><br>還沒寫，反正會走到腿斷掉"
+            "<span class=\"location-name\">おおさかじょうこうえん</span><br><br>還沒寫，反正會走到腿斷掉"
         ],
-        "warning": ""
+        "warning": "記得順路參觀海洋堂模型博物館<br><br>預約御座船<br><br>附近的大阪撫警察本部有空可以去<br>柯南聖地巡禮景點之一"
     },
     {
         "type": "transport",
@@ -52,7 +52,7 @@
             "四天王寺",
             "<span class=\"location-name\">してんのうじ</span>"
         ],
-        "warning": ""
+        "warning": "看時間去"
     },
     {
         "type": "transport",
